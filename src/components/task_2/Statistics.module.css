@@ -1,0 +1,42 @@
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.statistics {
+  margin-bottom: 70px;
+}
+
+.title {
+  font-size: 30px;
+  background-color: rgb(207, 245, 207);
+  padding: 20px 0px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  width: 400px;
+  height: 70px;
+  margin: 0 auto;
+}
+
+.item {
+  flex-basis: calc(100% / 5);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 19px;
+  margin-bottom: 10px;
+  font-size: 19px;
+}
+
+.percentage {
+  font-style: italic;
+  font-size: 19px;
+}

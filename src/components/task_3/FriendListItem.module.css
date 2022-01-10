@@ -1,0 +1,25 @@
+.avatar {
+  width: 70px;
+  margin-right: 25px;
+}
+
+.on {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 20px;
+  background-color: rgb(3, 110, 44);
+}
+
+.off {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 20px;
+  background-color: rgb(182, 44, 10);
+}
+
+.name {
+  font-size: 25px;
+  font-weight: 700;
+}
